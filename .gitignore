@@ -1,0 +1,17 @@
+# globel config
+global_config.py
+
+# models, datasets and records from training
+/pretrained_models/
+/records/
+/datasets/
+
+# pycache
+**/__pycache__/
+
+
+# hpc files
+*.sh
+*.err
+*.out
+*.ipynb
