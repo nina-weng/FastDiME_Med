@@ -12,11 +12,15 @@ If you find this code helpful in your research, please cite the following paper:
 ```
 @article{weng2023fast,
     title={Fast Diffusion-Based Counterfactuals for Shortcut Removal and Generation},   
-    author={Weng, Nina and Pegios, Paraskevas and Feragen, Aasa and Petersen, Eike and Bigdeli, Siavash},
+    author={Weng, Nina and Pegios, Paraskevas and Petersen, Eike and Feragen, Aasa and Bigdeli, Siavash},
     journal={arXiv preprint arXiv:2312.14223},
     year={2023}
 }
 ```
+
+------ *Update on July 19, 2024* ------
+This work has been accepted at the 18th European Conference on Computer Vision (ECCV), 2024. Please check out our [project webpage](https://fastdime.compute.dtu.dk/).
+-------------------------- --
 
 ## Virtual Environment Setup
 The code is implemented in Python 3.9 using the Pytorch library. We only tested the code with Pytorch 3.9. One way of getting all the requirements is by using virtualenv and the requirements.txt file.
