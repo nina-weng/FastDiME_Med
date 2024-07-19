@@ -19,7 +19,9 @@ If you find this code helpful in your research, please cite the following paper:
 ```
 
 ------ *Update on July 19, 2024* ------
-This work has been accepted at the 18th European Conference on Computer Vision (ECCV), 2024. Please check out our [project webpage](https://fastdime.compute.dtu.dk/).
+
+This work has been accepted at the 18th European Conference on Computer Vision (ECCV), 2024. 
+Please check out our [project webpage](https://fastdime.compute.dtu.dk/).
 -------------------------- --
 
 ## Virtual Environment Setup
