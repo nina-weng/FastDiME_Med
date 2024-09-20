@@ -5,6 +5,7 @@ global_config.py
 /pretrained_models/
 /records/
 /datasets/
+/shortcut_annotations/
 
 # pycache
 **/__pycache__/
