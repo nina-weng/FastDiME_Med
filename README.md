@@ -127,6 +127,7 @@ The three datasets used in this work are all public and can be downloaded from:
 The annotations of chest drains from NIH are crow-sourced from both radiologists and non-experts ([Damgaard and Eriksen et al. 2023](https://arxiv.org/abs/2309.02244), [Oakden-Rayner and Dunnmon et al. 2019](https://arxiv.org/abs/1909.12475)), and pacemakers in CheXpert are labelled using [LabelMe](http://labelme.csail.mit.edu/Release3.0/) by Nina Weng. Ruler markers in ISIC were also annotated using [LabelMe](http://labelme.csail.mit.edu/Release3.0/) by Aasa Feragen.
 
 As a part of the contribution, we public the shortcut annotations used in this work, which were annotated by us. 
+*Update (20th Sep, 2024): Please reach out to Nina to get the annotations.*
 - Pacemaker annotations (Chexpert dataset), check [che_pm_shortcut_labels.csv](./shortcut_annotations/che_pm_shortcut_labels.csv)
 - Ruler marker, patches, ink annotations (Skin Lesion ISIC), check [isic_ruler_shortcut_labels.csv](./shortcut_annotations/isic_ruler_shortcut_labels.csv)
 
